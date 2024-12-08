@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP when modifying an array within a foreach loop.  The issue arises when using `unset()` to remove elements while iterating, leading to potential index skipping. The bug.php file shows the erroneous code, while bugSolution.php offers a corrected approach.  See the comments within the code files for a detailed explanation.
